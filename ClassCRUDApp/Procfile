@@ -1,0 +1,1 @@
+web: gunicorn ClassCRUDApp.wsgi --log-file -
